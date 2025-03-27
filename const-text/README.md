@@ -4,8 +4,6 @@ const-text is a custom tag used to store a piece of text that will be used in mo
 
 Usage:
 
-
-''''html
 <!DOCTYPE html>
 <html lang="en">
 	<head>
