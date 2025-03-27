@@ -13,12 +13,12 @@ Usage:
 		<!-- Inside a div it is rendered as a tool tip -->
 		<div class="team-member">
 			Person1
-			<const-text id="DiaferiaBio"></const-text>
+			<const-text id="Person1Bio"></const-text>
 		</div>
 
 		<!-- If any other tag encloses it, then it is rendered as plain text or any style you might add. -->
 		<span>
-			<const-text id="DiaferiaBio"></const-text>
+			<const-text id="Person1Bio"></const-text>
 		</span>
 		
 		<!-- Include the javascript file. -->
