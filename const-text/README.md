@@ -4,7 +4,6 @@ const-text is a custom tag used to store a piece of text that will be used in mo
 
 Usage:
 
-''''html
 	<body>
 		<!-- Define the text. Notice the def after the text. -->
 		<const-text id="Person1Bio" def>
