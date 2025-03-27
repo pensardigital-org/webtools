@@ -4,16 +4,8 @@ const-text is a custom tag used to store a piece of text that will be used in mo
 
 Usage:
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-	  <meta charset="utf-8">
-	  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-	  <title>const-text by pensardigital.org .</title>
-	</head>
-
+''''html
 	<body>
-
 		<!-- Define the text. Notice the def after the text. -->
 		<const-text id="Person1Bio" def>
 			Person 1 is really ... blah blah.
@@ -33,4 +25,3 @@ Usage:
 		<!-- Include the javascript file. -->
 		<script src="const-text.js"></script>
 	</body>
-</html>
